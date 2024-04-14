@@ -1,9 +1,4 @@
-# Fake-New-Analyser-Predictor
-
 # Fake News Analyser And Predictor
-
-<img src="https://socialify.git.ci/kapilsinghnegi/Fake-News-Detection/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="Fake-News-Detection" width="1280" height="320" />
-
 
 Our project is focused on creating a machine learning model that can accurately identify and categorize news articles from various news and social media platforms as either fake or legitimate. The spread of fake news can have significant negative impacts on individuals and society. To address this, we are developing and training a model using a wide-ranging dataset of news articles. We have employed four different methods to evaluate the performance of the model.
 
