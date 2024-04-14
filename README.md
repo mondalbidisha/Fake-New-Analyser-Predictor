@@ -16,17 +16,6 @@ We are utilizing a labeled dataset that includes news articles and their respect
 - True: Authentic news articles
 - False: Fake or fabricated news articles
 
-## System Requirements 
-
-Hardware :
-1. 4GB RAM
-2. i3 Processor
-3. 500MB free space
-
-Software :
-1. Anaconda
-2. Python
-
 ## Dependencies
 
 Before running the code, make sure you have the following libraries and packages installed:
