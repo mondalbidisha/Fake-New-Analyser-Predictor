@@ -5,6 +5,8 @@ Our project is focused on creating a machine learning model that can accurately 
 1. **Logistic Regression**
 2. **Decision Tree Classifier**
 3. **Random Forest Classifier**
+4. **SVM Classifier**
+5. **Naive Bayes Classifier**
 
 ## Project Overview
 
@@ -12,13 +14,13 @@ In today's digital era, the rapid spread of information across various online pl
 
 ## Dataset
 
-We are utilizing a labeled dataset that includes news articles and their respective classifications (true or false). This dataset is organized into two categories:
+We are utilizing a labeled dataset that includes news articles and their respective classifications (true or false). This dataset is organized into two categories -
 - True: Authentic news articles
 - False: Fake or fabricated news articles
 
 ## Dependencies
 
-Before running the code, make sure you have the following libraries and packages installed:
+Before running the code, make sure the following libraries and packages are installed:
 
 - Python 3
 - Scikit-learn
@@ -28,7 +30,7 @@ Before running the code, make sure you have the following libraries and packages
 - Matplotlib
 - Regular Expression
 
-You can install these dependencies using pip:
+These dependencies can be installed using pip:
 
 ```bash
 pip install pandas
@@ -41,7 +43,7 @@ pip install re
 
 ## Usage
 
-1. Clone this repository to your local machine:
+1. Clone this repository on local machine:
 
 ```bash
 git git@github.com:mondalbidisha/Fake-New-Analyser-Predictor.git
@@ -53,12 +55,7 @@ git git@github.com:mondalbidisha/Fake-New-Analyser-Predictor.git
 cd Fake-New-Analyser-Predictor
 ```
 
-3. Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. 
+3. Execute the Jupyter Notebook associated with each classifier to train and test the models. 
 
-4. The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
-
-## Results
-
-We evaluated each classifier's performance using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
-
+4. The code will produce performance and evaluation metrics as well as provide a prediction as to whether manually entered news data is real or fake.
 
