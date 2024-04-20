@@ -5,8 +5,7 @@ Our project is focused on creating a machine learning model that can accurately 
 1. **Logistic Regression**
 2. **Decision Tree Classifier**
 3. **Random Forest Classifier**
-4. **SVM Classifier**
-5. **Naive Bayes Classifier**
+4. **Naive Bayes Classifier**
 
 ## Project Overview
 
